@@ -1,0 +1,7 @@
+category: Xfce
+requires: gstreamer0.10-plugins-pulse libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgstinterfaces0.10_0 libgstreamer0.10_0 libgtk2.0_0 libxfce4ui1_0 libxfce4util4 libxfconf0_2
+sdesc: "Xfce mixer"
+ldesc: "This package contains a volume control application based on 
+GStreamer 0.10 written to conceptually fit into the Xfce desktop 
+environment. It also contains a plugin for the Xfce panel which is 
+especially designed for use with the mouse wheel."
