@@ -1,0 +1,12 @@
+inherit xfce4
+
+NAME="xfce4-mixer"
+VERSION=4.10.0
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Xfce mixer"
+DESCRIPTION="This package contains a volume control application based on
+GStreamer 0.10 written to conceptually fit into the Xfce desktop environment.
+It also contains a plugin for the Xfce panel which is especially designed for
+use with the mouse wheel."
+REQUIRES="gstreamer0.10-plugins-pulse"
