@@ -9,4 +9,4 @@ DESCRIPTION="This package contains a volume control application based on
 GStreamer 0.10 written to conceptually fit into the Xfce desktop environment.
 It also contains a plugin for the Xfce panel which is especially designed for
 use with the mouse wheel."
-REQUIRES="gstreamer0.10-plugins-pulse"
+REQUIRES="gstreamer0.10-plugins-pulse pulseaudio-module-x11"
